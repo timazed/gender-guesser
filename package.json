@@ -1,8 +1,9 @@
 {
-  "name": "node-gender-guesser",
+  "name": "gender-guesser",
   "description": "Gender Gusser Project.",
   "version": "0.0.1",
-  "private": true,
+  "license": "MIT",
+  "repository": "timazed/gender-guesser",
   "dependencies": {
     "bluebird": "3.4.x",
     "lodash": "4.x.x"
